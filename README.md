@@ -1,4 +1,4 @@
-## [PyPI](https://pypi.org)
+# [PyPI](https://pypi.org)
 
 ### Version
 
@@ -51,4 +51,20 @@
 
 ```markdown
 [![PyPI requires python](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2F<your-project>%2Fjson&query=%24.info.requires_python&size=xs&mode=light&logo=python&logoColor=ffffff&label=requires+python&color=3775A9)](https://pypi.org/project/<your-project>)
+```
+
+### Author
+
+[![PyPI author](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2Ftoml-rs%2Fjson&query=%24.info.author_email&size=xs&mode=light&logo=python&logoColor=ffffff&label=author&color=3775A9)](https://pypi.org/project/toml-rs)
+
+```markdown
+[![PyPI author](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2F<your-project>%2Fjson&query=%24.info.author_email&size=xs&mode=light&logo=python&logoColor=ffffff&label=author&color=3775A9)](https://pypi.org/project/<your-project>)
+```
+
+### License
+
+![License](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2Ftoml-rs%2Fjson&query=%24.info.license_expression&variant=branded&size=xs&mode=light&logo=python&logoColor=ffffff&label=license)
+
+```markdown
+![License](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2F<your-project>%2Fjson&query=%24.info.license_expression&variant=branded&size=xs&mode=light&logo=python&logoColor=ffffff&label=license)
 ```
