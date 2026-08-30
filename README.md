@@ -71,6 +71,18 @@
 
 # [Telegram](https://telegram.org)
 
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=destructive&size=xs&mode=light&logo=ri%3AFaTelegramPlane&label=t.me%2Fopensource_findings_chat&color=272170&gradient=9D50BB%2C+6E48AA&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/opensource_findings_chat)
+
+```markdown
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=destructive&size=xs&mode=light&logo=ri%3AFaTelegramPlane&label=t.me%2F<your-group>&color=272170&gradient=9D50BB%2C+6E48AA&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/<your-group>)
+```
+
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=destructive&size=xs&mode=light&logo=ri%3APiTelegramLogo&label=t.me%2Fopensource_findings_chat&color=272170&gradient=9D50BB%2C+6E48AA&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/opensource_findings_chat)
+
+```markdown
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=destructive&size=xs&mode=light&logo=ri%3APiTelegramLogo&label=t.me%2F<your-group>&color=272170&gradient=9D50BB%2C+6E48AA&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/<your-group>)
+```
+
 [![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=destructive&size=xs&mode=light&logo=telegram&split=true&label=t.me%2Fopensource_findings_chat&color=26a4e2&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/opensource_findings_chat)
 
 ```markdown
@@ -100,8 +112,21 @@
 ```markdown
 <a href="https://t.me/<your-group>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"><img alt="Telegram online members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"></picture></a>
 ```
+
 [![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=destructive&size=xs&mode=light&logo=telegram&split=true&label=t.me%2Fopensource_findings_chat&color=26a4e2&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/opensource_findings_chat)
 
 ```markdown
 [![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=destructive&size=xs&mode=light&logo=telegram&split=true&label=t.me%2F<your-group>&color=26a4e2&valueColor=ffffff&labelTextColor=ffffff)](https://t.me/<your-group>)
+```
+
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=ri%3AFaTelegramPlane&logoColor=24A1DE&label=t.me%2Fopensource_findings_chat)](https://t.me/opensource_findings_chat)
+
+```markdown
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=ri%3AFaTelegramPlane&logoColor=24A1DE&label=t.me%2F<your-group>)](https://t.me/<your-group>)
+```
+
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=http%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=ri%3APiTelegramLogo&logoColor=24A1DE&label=t.me%2Fopensource_findings_chat)](https://t.me/opensource_findings_chat)
+
+```markdown
+[![Telegram group](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=ri%3APiTelegramLogo&logoColor=24A1DE&label=t.me%2F<your-group>)](https://t.me/<your-group>)
 ```
