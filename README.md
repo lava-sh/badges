@@ -68,3 +68,29 @@
 ```markdown
 ![License](https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Fpypi.org%2Fpypi%2F<your-project>%2Fjson&query=%24.info.license_expression&variant=branded&size=xs&mode=light&logo=python&logoColor=ffffff&label=license)
 ```
+
+# [Telegram](https://telegram.org)
+
+<a href="https://t.me/opensource_findings_chat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=outline&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"><img alt="Telegram members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=outline&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"></picture></a>
+
+```markdown
+<a href="https://t.me/<your-group>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=outline&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"><img alt="Telegram members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=outline&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"></picture></a>
+```
+
+<a href="https://t.me/opensource_findings_chat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=secondary&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"><img alt="Telegram members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.members&suffix=+members&variant=secondary&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"></picture></a>
+
+```markdown
+<a href="https://t.me/<your-group>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=secondary&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"><img alt="Telegram members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.members&suffix=+members&variant=secondary&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"></picture></a>
+```
+
+<a href="https://t.me/opensource_findings_chat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=outline&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"><img alt="Telegram online members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=outline&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"></picture></a>
+
+```markdown
+<a href="https://t.me/<your-group>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=outline&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"><img alt="Telegram online members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=outline&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"></picture></a>
+```
+
+<a href="https://t.me/opensource_findings_chat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"><img alt="Telegram online members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2Fopensource_findings_chat&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/opensource_findings_chat"></picture></a>
+
+```markdown
+<a href="https://t.me/<your-group>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=dark&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"><img alt="Telegram online members" src="https://shieldcn.dev/badge/dynamic/json.svg?url=https%3A%2F%2Ftg.chirizxc.workers.dev%2F<your-group>&query=%24.online_members&suffix=+online&variant=secondary&font=geist&size=xs&mode=light&logo=telegram&logoColor=24A1DE&label=t.me/<your-group>"></picture></a>
+```
