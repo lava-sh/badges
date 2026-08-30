@@ -2,7 +2,7 @@
 
 ### Version
 
-[![PyPI version](https://shieldcn.dev/pypi/toml_rs.svg?logo=python&size=xs&font=geist&label=pypi+versiond)](https://pypi.org/project/toml_rs)
+[![PyPI version](https://shieldcn.dev/pypi/toml_rs.svg?logo=python&size=xs&font=geist&label=pypi+version)](https://pypi.org/project/toml_rs)
 
 ```markdown
 [![PyPI version](https://shieldcn.dev/pypi/<your-project>.svg?logo=python&label=pypi+version)](https://pypi.org/project/<your-project>)
